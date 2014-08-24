@@ -5,9 +5,9 @@ This repository includes the codes, docs and outcomes for the course project of 
 
 
 
- run_analysis.R, *** this file is the R code for this project work
+ * run_analysis.R, this file is the R code for this project work
 
- CodeBook.md,    *** this file decribes major logic and key variables 
+ * CodeBook.md,    this file decribes major logic and key variables 
 
- tidy.txt,       *** this is the output of this project work
+ * tidy.txt,       this is the output of this project work
  
