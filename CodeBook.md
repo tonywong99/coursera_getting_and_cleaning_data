@@ -17,6 +17,7 @@ The goal, data source of this project are very well described in the course webs
 * tidy, the final tidy dataset
  
 
-
+### NOTE!!!
+* Before you test run the code, please make sure your R working directory includes HAR dataset
 
 
