@@ -1,4 +1,4 @@
-coursera_getting_and_cleaning_data
+coursera getting and cleaning data course project
 ==================================
 
 This repository includes the codes, docs and outcomes for the course project of coursera Getting and Cleaning Data.
