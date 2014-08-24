@@ -1,5 +1,5 @@
 ####!!!Please update the working directory to where your HAR dataset sits###
-setwd("C:/UCI HAR Dataset")
+#setwd("C:/UCI HAR Dataset")
 
 ### step 1, Merges the training and the test sets to create one data set.
 trainHAR = read.csv("train/X_train.txt", sep="", header=FALSE)
